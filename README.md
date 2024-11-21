@@ -8,3 +8,7 @@ This is a construction website developed using **HTML**, **CSS**, and **JavaScri
 - **JavaScript**: Adds interactivity to the website, such as image carousels, hover effects, and form validation.
 - **Font Awesome**: Used for icons like the "plus" icon and other UI components.
 
+## Deployment
+
+The website is deployed and accessible at: [[Live Demo][(https://amitj10.github.io/Construction-website]  
+You can clone this repository and view it locally by opening `index.html` in a browser.
