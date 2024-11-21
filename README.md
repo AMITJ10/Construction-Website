@@ -10,5 +10,5 @@ This is a construction website developed using **HTML**, **CSS**, and **JavaScri
 
 ## Deployment
 
-The website is deployed and accessible at: [[Live Demo][(https://amitj10.github.io/Construction-website]  
+The website is deployed and accessible at: [[Live Demo][(https://amitj10.github.io/Construction-website)]  
 You can clone this repository and view it locally by opening `index.html` in a browser.
